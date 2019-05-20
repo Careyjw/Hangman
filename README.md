@@ -1,2 +1,2 @@
 # Hangman
-Python program that cheats that Hangman
+Python program that cheats at Hangman
